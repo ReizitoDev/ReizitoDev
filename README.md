@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Reis 🖐️
 
-[![Blog](https://img.shields.io/website?label=Voxycode.com.br&style=for-the-badge&url=https://voxycode.com.br/)]()
+[![Blog](https://img.shields.io/website?label=Voxycode.com.br&style=for-the-badge&url=https://reizito.dev/)]()
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@reizitooficial8042)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taldoreis_dev)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/reizitooficial)
